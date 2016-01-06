@@ -1,2 +1,2 @@
 # HelloWorld
-# I am stupid beginner
+# I am not a stupid beginner
