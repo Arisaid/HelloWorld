@@ -1,3 +1,3 @@
 # HelloWorld
 # Hello, my friend
-# Im trying to lern Python, but Im so stupid
+# Im trying to learn Python, but I'm so stupid
